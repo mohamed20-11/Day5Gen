@@ -1,0 +1,54 @@
+D:\Demo\App\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\Demo\App\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\App\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\Demo\App\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\Demo\App\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\Demo\App\App\bin\Debug\net7.0\App.exe
+D:\Demo\App\App\bin\Debug\net7.0\App.deps.json
+D:\Demo\App\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\Demo\App\App\bin\Debug\net7.0\App.dll
+D:\Demo\App\App\bin\Debug\net7.0\App.pdb
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Demo\App\App\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Demo\App\App\obj\Debug\net7.0\App.csproj.CopyComplete
+D:\Demo\App\App\obj\Debug\net7.0\App.dll
+D:\Demo\App\App\obj\Debug\net7.0\refint\App.dll
+D:\Demo\App\App\obj\Debug\net7.0\App.pdb
+D:\Demo\App\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\Demo\App\App\obj\Debug\net7.0\ref\App.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.csproj.AssemblyReference.cache
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.AssemblyInfoInputs.cache
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.AssemblyInfo.cs
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.csproj.CoreCompileInputs.cache
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\refint\App.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.pdb
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\App.exe
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\App.deps.json
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\App.runtimeconfig.json
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\App.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\App.pdb
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.csproj.CopyComplete
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\App.genruntimeconfig.cache
+D:\ITI Aswan 3Months\AdvC# Tasks\Day5\Day5Task\day5\App\App\obj\Debug\net7.0\ref\App.dll

@@ -1,0 +1,5 @@
+C:\Users\moran\Desktop\Day5TaskGenerics\ConsoleApp\obj\Debug\net7.0\Day5TaskGenerics.csproj.AssemblyReference.cache
+C:\Users\moran\Desktop\Day5TaskGenerics\ConsoleApp\obj\Debug\net7.0\Day5TaskGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moran\Desktop\Day5TaskGenerics\ConsoleApp\obj\Debug\net7.0\Day5TaskGenerics.AssemblyInfoInputs.cache
+C:\Users\moran\Desktop\Day5TaskGenerics\ConsoleApp\obj\Debug\net7.0\Day5TaskGenerics.AssemblyInfo.cs
+C:\Users\moran\Desktop\Day5TaskGenerics\ConsoleApp\obj\Debug\net7.0\Day5TaskGenerics.csproj.CoreCompileInputs.cache
